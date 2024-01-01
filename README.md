@@ -1,2 +1,2 @@
 # projects
-HomeLabs Tutorials
+HomeLab Tutorials
